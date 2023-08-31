@@ -1,32 +1,31 @@
 # PHP & Laravel Basics
 
-Repositorio para experimentar y aprender PHP con Laravel.
+Repository to learn and experiment with php & Laravel.
 
-## Instalación de PHP & Composer (No docker)
-- Manual (Windows): descargar desde `php.net` la ultima versión, colocar instalación donde uno quiera, luego agregar carpeta de instalación a variable del sistema `Path`. Verificar que en consola (cmd/powershell) el comando `php --version` devuelva la versión de Php instalada.
+## PHP & Composer Instalation (no docker)
+- Manual (Windows): download lastest version from `php.net`, put instalacion anywhere you want in windows filesystem (ideally at root), then add instalation directory to system variable `Path`. Verify in console (cmd/powershell) that the command `php --version` returns php version.
 
-    Nota: Recordar habilitar extensión `fileinfo` en `php.ini` para que creación de proyecto de Laravel funcione correctamente
+    Note: Remember to enable `fileinfo` in `php.ini` so Laravel works properly
 
-- Alternativa todo-en-uno: Instalar entorno de desarrollo [XAMPP](https://www.apachefriends.org/es/index.html)
+- All-in-one alternative: Install [XAMPP](https://www.apachefriends.org/es/index.html)
 
-### Instalación de Composer (manejo de dependencias)
+### Composer Instalation (Dependency manager)
 
-- Instalar desde sitio web [getcomposer.org](https://getcomposer.org/)
+- Install from website [getcomposer.org](https://getcomposer.org/)
 
-## Comandos 
+## Commands
 
-Correr aplicación (Por defecto en `localhost:8000`):
+Run laravel app for development (default is `localhost:8000`):
 ```bash
 php artisan serve
 ```
 
-## Links y Documentación de utilidad
+## Links y Useful Docs
 - [PHP For Beginners | 3+ Hour Crash Course](https://www.youtube.com/watch?v=BUCiSSyIGGU)
-
 - [Laravel 10.X Documentation](https://laravel.com/docs/10.x)
-
 - [Laravel From Scratch 2022 | 4+ Hour Course](https://www.youtube.com/watch?v=MYyJ4PuL4pY)
 - [How to Build a REST API With Laravel: PHP Full Course](https://www.youtube.com/watch?v=YGqCZjdgJJk)
+
 
 # Readme por defecto:
 
