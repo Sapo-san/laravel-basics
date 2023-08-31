@@ -20,7 +20,7 @@ Run laravel app for development (default is `localhost:8000`):
 php artisan serve
 ```
 
-## Links y Useful Docs
+## Links & Useful Docs
 - [PHP For Beginners | 3+ Hour Crash Course](https://www.youtube.com/watch?v=BUCiSSyIGGU)
 - [Laravel 10.X Documentation](https://laravel.com/docs/10.x)
 - [Laravel From Scratch 2022 | 4+ Hour Course](https://www.youtube.com/watch?v=MYyJ4PuL4pY)
